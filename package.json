@@ -1,0 +1,19 @@
+{
+  "name": "pretty-loader",
+  "version": "1.0.1",
+  "description": "Webpack Loader for pretty-components.",
+  "main": "index.js",
+  "author": "eveningkid",
+  "repository": "eveningkid/pretty-loader",
+  "license": "MIT",
+  "dependencies": {
+    "pretty-components-formatter": "^1.0.2"
+  },
+  "keywords": [
+    "pretty",
+    "components",
+    "loader",
+    "webpack",
+    "pretty-components"
+  ]
+}
