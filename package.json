@@ -7,7 +7,7 @@
   "repository": "eveningkid/pretty-loader",
   "license": "MIT",
   "dependencies": {
-    "pretty-components-formatter": "^1.0.2"
+    "pretty-components-formatter": "^1.0.4"
   },
   "keywords": [
     "pretty",
