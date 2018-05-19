@@ -1,6 +1,6 @@
 {
   "name": "pretty-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Webpack Loader for pretty-components.",
   "main": "index.js",
   "author": "eveningkid",
